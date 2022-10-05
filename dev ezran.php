@@ -3,7 +3,7 @@
 session_start();
 
 if (!isset($_SESSION['email'])) {
-    header("Location: index.php");
+    header("Location: login.php");
 }
 
 ?>
@@ -22,28 +22,13 @@ if (!isset($_SESSION['email'])) {
   </head>
   <body>
     
-    <nav>
-      <div class="navbar">
-        <div class="container nav-container">
-            <input class="checkbox" type="checkbox" name="" id="" />
-            <div class="hamburger-lines">
-              <span class="line line1"></span>
-              <span class="line line2"></span>
-              <span class="line line3"></span>
-            </div>  
-          <div class="menu-items">
-            <li><a href="#">Account:</a></li>
-            <li><?php echo "<a> ". $_SESSION ['email'] . " </a>"; ?></li>
-            <li><a href="#"></a></li>
-            <li><a href="logout.php">Logout</a></li>
-          </div>
-        </div>
-      </div>
-    </nav>
-
     <video autoplay loop muted >
       <source src="images/space.mp4" type="video/mp4">
     </video>
+
+    <div class="button">  
+      <i name="logout" class="fa-solid fa-right-from-bracket fa-3x" onclick="window.location.href='logout.php'" ></i>
+    </div>  
 
     <section>
       <div class="row"> 
@@ -175,7 +160,7 @@ if (!isset($_SESSION['email'])) {
         <div class="column"><a class="link" href="https://espatial.ezran.my/">
           <div class="card">
             <div class="icon-wrapper">
-              <i class="fas fa-skull-crossbones"></i>
+              <i class="fas fa-feather"></i>
             </div>
             <h3>e-Spatial <br> Jabatan Perhutanan Semenanjung Malaysia (JPSM)</h3> 
           </div></a>
