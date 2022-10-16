@@ -16,7 +16,7 @@
 	
 	<div class="content"> 
 		<h1>NEVER STOP EXPLORING</h1> 
-		<h2>Artanis Cloud is a software development company on Artificial Intelligence rrrrrrrrr</h2><br><br>
+		<h2>Artanis Cloud is a software development company on Artificial Intelligence rrrrrrrrrrrrr</h2><br><br>
 		<button class="B1" onclick="location.href='https://www.artaniscloud.com/'" type="button">GO TO ARTANISCLOUD.COM</button> 
 		<button class="B2"onclick="location.href='http://localhost/artanis_website/login.php'" type="button">GO TO DEV.EZRAN.MY</button> <!--br-->
 		<button class="B3"onclick="location.href='https://elixirush.com/'" type="button">GO TO ELIXIRRUSH.COM</button> 
