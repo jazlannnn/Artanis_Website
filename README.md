@@ -1,15 +1,25 @@
 # Artanis Website Project Using PHP
 
-Project Overview: During my internship, I have developed a PHP website for my company which consits 3 pages which is Ezran.my page, login for DezEzran.my page and DezEzran.my page. 
-The two website pages which are Ezran.my and DezEzran.my, should use the same design that have been in that page including the description of the page, the number button on the page and the detail of the page such as info box. 
-But for the login page, I need to make a new design for it since the page does not exist yet
+During my internship, I developed a PHP-based website for my company, consisting of three key pages: Ezran.my, DezEzran.my, and a Login Page for DezEzran.my. 
+The main objective was to maintain a cohesive design for both the Ezran.my and DezEzran.my pages, ensuring they shared the same visual and functional elements, including page descriptions, navigational buttons, and detailed information boxes.
+While the Ezran.my and DezEzran.my pages required consistency in their design and layout, the Login Page was a new addition.
+I was tasked with creating a completely fresh design for the login interface, as it did not previously exist. The new login page needed to be user-friendly, visually appealing, and consistent with the overall theme of the existing pages.
 
 Technologies used : Laragon Localhost, phpMyAdmin, Visual Studio Code, GitHub
 
-Key Features:
+Key Features and Achievements
+Consistent Design Implementation: Both the Ezran.my and DezEzran.my pages were developed with consistent design elements, creating a cohesive user experience. 
+This involved replicating styles, components, and page details accurately across both sites.
+
+Login Page Development: Designed and developed a new login page for DezEzran.my, emphasizing accessibility and ease of use. The page included a responsive design that adapted well to different screen sizes.
+
+Improved PHP Skills: Through this project, I significantly enhanced my knowledge and proficiency in PHP, especially in integrating front-end and back-end functionality to create dynamic web pages.
+
+Database Management: Gained hands-on experience with phpMyAdmin, learning how to manage databases, perform queries, and integrate data with PHP for dynamic content rendering.
+This project was a valuable learning experience, allowing me to develop technical skills and apply them to create functional and aesthetically pleasing web pages for a real-world application.
 
 
-This project helped me improve my undesrtanding on PHP languages
+This project was a valuable learning experience, allowing me to develop technical skills and apply them to create functional and aesthetically pleasing web pages for a real-world application.
 
 
 ## Screnshot of the Website
