@@ -14,18 +14,18 @@ This project helped me improve my undesrtanding on PHP languages
 
 ## Screnshot of the Website
 
-![Screenshot 2024-10-13 032902](https://github.com/user-attachments/assets/cec83efd-66ac-461f-92cb-06bd7eda9074)
+![Screenshot 2024-10-13 032902](https://github.com/user-attachments/assets/5a20dc18-0470-4b0e-858a-9b928e9f8ff4)
 - Ezran.my Page
   
-![Screenshot 2024-10-13 032911](https://github.com/user-attachments/assets/f5f30ea0-8a0c-418b-9dc7-ca541fd00d04)
+![Screenshot 2024-10-13 032911](https://github.com/user-attachments/assets/38b97e9f-a6d7-40a6-86b5-f185a12d73ef)
 - Login for DezEzran.my Page
   
-![Screenshot 2024-10-13 032945](https://github.com/user-attachments/assets/cbb971b3-39a2-42a1-bbdf-fa225103fbd6)
+![Screenshot 2024-10-13 032945](https://github.com/user-attachments/assets/0e0da07c-6c30-4fcf-aa42-4ea268994dec)
 - DezEzran.my Page
 
 ### Detail of the Website
 
-![Screenshot 2024-10-13 032835](https://github.com/user-attachments/assets/289d0534-484c-4674-857f-1325b72cfb68)
+![Screenshot 2024-10-13 032812](https://github.com/user-attachments/assets/4810a65d-2f48-47c3-be04-02c3f5fef6c3)
 - Popup Message
 
 ![Screenshot 2024-10-13 032842](https://github.com/user-attachments/assets/807a5fd7-8ab6-4b52-89df-0ba1272ed09f)
