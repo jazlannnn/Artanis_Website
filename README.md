@@ -7,7 +7,7 @@ After I have completed this project, I need to send my source code to the compan
 
 Technologies used : Laragon Localhost, phpMyAdmin, Visual Studio Code, GitHub
 
-Key Features and Achievements
+Key Features and Achievements :
 
 Consistent Design Implementation: Both the Ezran.my and DezEzran.my pages were developed with consistent design elements, creating a cohesive user experience. 
 This involved replicating styles, components, and page details accurately across both sites.
