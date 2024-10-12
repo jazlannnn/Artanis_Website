@@ -28,11 +28,14 @@ This project helped me improve my undesrtanding on PHP languages
 ![Screenshot 2024-10-13 032812](https://github.com/user-attachments/assets/4810a65d-2f48-47c3-be04-02c3f5fef6c3)
 - Popup Message
 
-![Screenshot 2024-10-13 032842](https://github.com/user-attachments/assets/807a5fd7-8ab6-4b52-89df-0ba1272ed09f)
+![Screenshot 2024-10-13 032835](https://github.com/user-attachments/assets/1f436df9-6c90-4c72-9533-fa3eea875982)
 - Encrypted Password
 
-![Screenshot 2024-10-13 032911](https://github.com/user-attachments/assets/74b904b4-54a9-4930-b2c3-6c1143599687)
+![Screenshot 2024-10-13 032842](https://github.com/user-attachments/assets/c065a071-77a2-4db6-9618-ea4565710bbf)
 - Logout Button
 
 ![Screenshot 2024-10-13 032923](https://github.com/user-attachments/assets/68a8a9a3-a270-463b-b8e1-4e6ea3a5dfc1)
 -Error Page
+
+
+
