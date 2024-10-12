@@ -1,9 +1,9 @@
 # Artanis Website Project Using PHP
 
-During my internship, I developed a PHP-based website for my company, consisting of three key pages: Ezran.my, DezEzran.my, and a Login Page for DezEzran.my. 
-The main objective was to maintain a cohesive design for both the Ezran.my and DezEzran.my pages, ensuring they shared the same visual and functional elements, including page descriptions, navigational buttons, and detailed information boxes.
-While the Ezran.my and DezEzran.my pages required consistency in their design and layout, the Login Page was a new addition.
-I was tasked with creating a completely fresh design for the login interface, as it did not previously exist. The new login page needed to be user-friendly, visually appealing, and consistent with the overall theme of the existing pages.
+Project Overview : During the industrial training period, I was given a project by Sara to make a new design for three pages of Artanis Cloud which is Ezran.my page, login for DezEzran.my page and DezEzran.my page. 
+The two website pages which are Ezran.my and DezEzran.my, should use the same design that have been in that page including the description of the page, the number button on the page and the detail of the page such as info box. 
+But for the login page, I need to make a new design for it since the page does not exist yet. 
+After I have completed this project, I need to send my source code to the company so that they can easily publish this website. This project starts from 21 September 2022 until 29 September 2022.
 
 Technologies used : Laragon Localhost, phpMyAdmin, Visual Studio Code, GitHub
 
