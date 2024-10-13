@@ -46,7 +46,7 @@ This project was a valuable learning experience, allowing me to develop technica
 - Logout Button
 
 ![Screenshot 2024-10-13 032923](https://github.com/user-attachments/assets/68a8a9a3-a270-463b-b8e1-4e6ea3a5dfc1)
--Error Page
+- Error Page
 
 
 
