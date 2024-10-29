@@ -25,13 +25,13 @@ This project was a valuable learning experience, allowing me to develop technica
 
 ## Screnshot of the Website
 
-![Screenshot 2024-10-13 032902](https://github.com/user-attachments/assets/5a20dc18-0470-4b0e-858a-9b928e9f8ff4)
+![artanis 1](https://github.com/user-attachments/assets/92eb822e-ed0d-4847-81ac-36d51ee5e5f5)
 - Ezran.my Page
   
-![Screenshot 2024-10-13 032911](https://github.com/user-attachments/assets/38b97e9f-a6d7-40a6-86b5-f185a12d73ef)
+![artanis 2](https://github.com/user-attachments/assets/ebd6dde8-6558-46f0-b01d-a0fe09de311e)
 - Login for DezEzran.my Page
   
-![Screenshot 2024-10-13 032945](https://github.com/user-attachments/assets/0e0da07c-6c30-4fcf-aa42-4ea268994dec)
+![artanis 3](https://github.com/user-attachments/assets/5ba3cfa4-2e4c-447c-985a-84d682bbdc9c)
 - DezEzran.my Page
 
 ### Detail of the Website
